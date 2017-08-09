@@ -1,0 +1,15 @@
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Gauge.Automation.Testing.Logic.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Gauge.Automation.Testing.Setting.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Gauge.Automation.Testing.Logic.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Gauge.Automation.Testing.Setting.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UNITTestGaugeWebPROD.csprojResolveAssemblyReference.cache
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,6 @@
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Setting\bin\Debug\Gauge.Automation.Testing.Setting.dll.config
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Setting\bin\Debug\Gauge.Automation.Testing.Setting.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Setting\bin\Debug\Gauge.Automation.Testing.Setting.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Setting\obj\Debug\Gauge.Automation.Testing.Setting.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Setting\obj\Debug\Gauge.Automation.Testing.Setting.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Setting\obj\Debug\Gauge.Automation.Testing.Setting.csprojResolveAssemblyReference.cache

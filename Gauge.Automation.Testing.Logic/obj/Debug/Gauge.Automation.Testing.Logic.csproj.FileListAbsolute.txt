@@ -1,0 +1,10 @@
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\Gauge.Automation.Testing.Logic.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\Gauge.Automation.Testing.Logic.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\WebDriver.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\WebDriver.Support.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\WebDriver.xml
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\bin\Debug\WebDriver.Support.xml
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\obj\Debug\Gauge.Automation.Testing.Logic.dll
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\obj\Debug\Gauge.Automation.Testing.Logic.pdb
+C:\Users\chunkhongc\Documents\Visual Studio 2015\Projects\UnitTestProject1\Gauge.Automation.Testing.Logic\obj\Debug\Gauge.Automation.Testing.Logic.csprojResolveAssemblyReference.cache
